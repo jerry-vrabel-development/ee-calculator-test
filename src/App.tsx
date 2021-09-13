@@ -5,7 +5,9 @@ import Calculator from './components/Calculator';
 function App() {
   return (
     <div className="App">
-      <Calculator />
+      <main>
+        <Calculator />
+      </main>
     </div>
   );
 }
